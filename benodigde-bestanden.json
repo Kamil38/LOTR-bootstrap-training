@@ -1,0 +1,18 @@
+[
+    {
+        "bron":"./node_modules/bootstrap/dist/js/bootstrap.js",
+        "bestemming":"./js/bootstrap.js"
+    },
+    {
+        "bron":"./node_modules/jquery/dist/jquery.min.js",
+        "bestemming":"./js/jquery.min.js"
+    },
+    {
+        "bron":"./node_modules/jquery-match-height/dist/jquery.matchHeight.js",
+        "bestemming":"./js/matchHeight.js"
+    },
+    {
+        "bron":"./node_modules/popper.js/dist/popper.js",
+        "bestemming":"./js/popper.js"
+    }
+]

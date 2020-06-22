@@ -4,7 +4,8 @@
   "description": "bootrstrap training op pagina van LOTR",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy-required": "node ./kopieerBestanden.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   "dependencies": {
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
+    "jquery-match-height": "^0.7.2",
     "popper.js": "^1.16.1"
   }
 }
