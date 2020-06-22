@@ -1,0 +1,27 @@
+{
+  "name": "lotr-bootstrap-training",
+  "version": "1.0.0",
+  "description": "bootrstrap training op pagina van LOTR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamil38/LOTR-bootstrap-training.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "demo",
+    "LotR"
+  ],
+  "author": "Kamil Agdere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kamil38/LOTR-bootstrap-training/issues"
+  },
+  "homepage": "https://github.com/Kamil38/LOTR-bootstrap-training#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
